@@ -1,6 +1,6 @@
 # IPiils — Organizador Semanal Inteligente de Gavetas IoT
 
-O **CitizenTech** nasceu para ajudar pessoas a manterem rotinas que exigem atenção no dia a dia — como tomar medicação nos dias certos ou organizar compartimentos ao longo da semana — sem depender apenas da memória. Desenvolvido para a disciplina de **Software Experience** na **FIAP**, o projeto combina um **ESP32**, um relógio em tempo real (**RTC DS1307**), avisos físicos imediatos e envio de dados por **MQTT** para tornar o uso simples, claro e confiável.
+O **Ipills** nasceu para ajudar pessoas a manterem rotinas que exigem atenção no dia a dia — como tomar medicação nos dias certos ou organizar compartimentos ao longo da semana — sem depender apenas da memória. Desenvolvido para a disciplina de **Software Experience** na **FIAP**, o projeto combina um **ESP32**, um relógio em tempo real (**RTC DS1307**), avisos físicos imediatos e envio de dados por **MQTT** para tornar o uso simples, claro e confiável.
 
 ## Teste no Wokwi
 
